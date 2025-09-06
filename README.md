@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/Nego90">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG44cWl2NWN0YzhxbnQyYmFsZTd3NDNqMTBxd2ZnZm10bTB2cTMzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j1iLbKhrC3XFcwcsjP/giphy.gif" alt="Luan banner">
+  <a href="https://github.com/kauwf">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG44cWl2NWN0YzhxbnQyYmFsZTd3NDNqMTBxd2ZnZm10bTB2cTMzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j1iLbKhrC3XFcwcsjP/giphy.gif" alt="kauwf">
   </a>
 </div>
 
@@ -36,9 +36,9 @@
 
 <div align="center">
   <h2>Minhas Estatísticas no GitHub</h2>
-  <a href="https://github.com/Nego90">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nego90&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nego90&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/kauwf">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauwf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauwf&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
@@ -46,12 +46,12 @@
 
 <div align="center">
   <h2>Minhas Contribuições</h2>
-  <img src="https://github.com/Nego90/Nego90/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/kauwf/kauwf/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
 
 <br>
 
 <div align="center">
   <h2>Visitas ao meu Perfil</h2>
-  <img src="https://moe-counter.glitch.me/get/@Nego90?theme=asoul" alt="Moe Counter">
+  <img src="https://moe-counter.glitch.me/get/@kauwf?theme=asoul" alt="Moe Counter">
 </div>
