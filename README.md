@@ -1,7 +1,8 @@
 <div align="center">
   <a href="https://github.com/Nego90">
-    <img src="https://i.imgur.com/4Gjgdwj.mp4"
-    alt="Luan banner">
+    <img 
+src="https://i.imgur.com/4Gjgdwj.mp4"
+alt="Luan banner">
   </a>
 </div>
 
