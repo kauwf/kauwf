@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/kauwf">
-    <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ptczE3dXJla3JwYmlkenlqcXg5dHBuaWpocm9iaDR6ajV2N3p0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vx1iDqOceiFH0sgnMK/giphy.gif](https://share.creavite.co/68bc956f74e175dfbf0703c0.gif)" alt="kauwf">
+    <img src="(https://share.creavite.co/68bc956f74e175dfbf0703c0.gif)" alt="kauwf">
   </a>
 </div>
 
